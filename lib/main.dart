@@ -6,7 +6,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
 void main() async {
-  //initialize Flutter bindings
+  //Initialize Flutter bindings
   WidgetsFlutterBinding.ensureInitialized();
 
   //Initialize Firebase with platform's default options
